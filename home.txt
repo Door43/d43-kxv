@@ -1,8 +1,7 @@
 ====== Door43 (kxv) ======
 
-Welcome to Door43! Please feel free to [[?do=edit|edit]] this page in your own language. More information about how to get started can be found [[en:get-started|here]].
-
+Welcome to Door43! Please feel free to [[:kxv:home?do=edit|edit]] this page in your own language. More information about how to get started can be found [[:en:get-started|here]].
 
 ===== Resources =====
 
-  * **[[kxv:obs|Open Bible Stories (kxv)]]**
+  * **[[:kxv:obs|Open Bible Stories (kxv)]]**
